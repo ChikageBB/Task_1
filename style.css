@@ -1,0 +1,37 @@
+h1 {
+    background: red;
+    color: white;
+}
+
+.paragraph-1{
+    background: blue;
+    font-size: 32pt;
+    color:  white;
+}
+
+.paragraph-2{
+    border: px solid yellow;
+    border-radius: 5px;
+    font-size: 24pt;
+    margin-bottom: 60px;
+    padding-bottom: 60px;
+    padding-left: 20px;
+}
+
+
+.paragraph-3{
+    font-weight: bold;
+    font-size: 22px;
+    font-family:'Courier New', Courier, monospace;
+    margin-bottom: 60px;
+    padding-bottom: 60px;
+    padding-left: 20px;
+}
+
+
+.photo {
+    margin-bottom: 60xp;
+    padding-bottom: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
